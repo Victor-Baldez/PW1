@@ -32,16 +32,7 @@ html {
   font-variant: small-caps;
 }
 
-#tudo-contato{
-  width: 67%;
-  border-radius: 0.25rem;
-  background: white;
-  margin: auto;
-  padding: 50px;
-  color: #0a0908;
-  font-family: verdana;
-}
-#tudo-index{
+#tudo{
   width: 67%;
   border-radius: 0.25rem;
   background: white;
@@ -52,6 +43,7 @@ html {
 }
 #texto1{
   text-align: center;
+  font-weight: bold;
 }
 #texto2{
   text-align: justify;
@@ -59,7 +51,6 @@ html {
 iframe {
   border-radius: 1rem;
 }
-
 #rodape {
   padding: 50px;
   color: acccd8;
@@ -87,6 +78,27 @@ iframe {
   padding: 10px;
 }
 #menu-index a {
+  text-decoration: none;
+  color: #0a0908;
+  font-family: verdana;
+}
+#menu-galeria {
+  height: 10%;
+  width: 75%;
+  background: white;
+  border-radius: 0.25rem;
+  margin: auto;
+}
+#links-galeria {
+  width: 65%;
+  height:100%;
+  float: right;
+}
+
+#menu-galeria table td {
+  padding: 10px;
+}
+#menu-galeria a {
   text-decoration: none;
   color: #0a0908;
   font-family: verdana;
