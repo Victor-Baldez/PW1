@@ -3,23 +3,23 @@ html {
   width: 100%;
 }
 
-#menu {
+#menu-contato {
   height: 10%;
   width: 75%;
   background: white;
   border-radius: 0.25rem;
   margin: auto;
 }
-#links {
+#links-contato {
   width: 60%;
   height:100%;
   float: right;
 }
 
-#menu table td {
+#menu-contato table td {
   padding: 10px;
 }
-#menu a {
+#menu-contato a {
   text-decoration: none;
   color: #0a0908;
   font-family: verdana;
@@ -29,9 +29,10 @@ html {
   text-align: center;
   color: acccd8;
   font-size: 20px;
+  font-variant: small-caps;
 }
 
-#tudo{
+#tudo-contato{
   width: 67%;
   border-radius: 0.25rem;
   background: white;
@@ -40,9 +41,49 @@ html {
   color: #0a0908;
   font-family: verdana;
 }
+#tudo-index{
+  width: 67%;
+  border-radius: 0.25rem;
+  background: white;
+  margin: auto;
+  padding: 50px;
+  color: #0a0908;
+  font-family: verdana;
+}
+#texto1{
+  text-align: center;
+}
+#texto2{
+  text-align: justify;
+}
+iframe {
+  border-radius: 1rem;
+}
 
 #rodape {
   padding: 50px;
+  color: #0a0908;
+  font-family: verdana;
+}
+
+#menu-index {
+  height: 10%;
+  width: 75%;
+  background: white;
+  border-radius: 0.25rem;
+  margin: auto;
+}
+#links-index {
+  width: 65%;
+  height:100%;
+  float: right;
+}
+
+#menu-index table td {
+  padding: 10px;
+}
+#menu-index a {
+  text-decoration: none;
   color: #0a0908;
   font-family: verdana;
 }
