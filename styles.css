@@ -68,6 +68,15 @@ iframe {
 #rodape a {
   color: white
 }
+#referencias {
+  padding: 50px;
+  color: 437c90;
+  font-family: verdana;
+  text-align: right;
+}
+#referencias a {
+  color: #437c90;
+}
 
 #menu-index {
   height: 10%;
