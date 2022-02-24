@@ -44,9 +44,17 @@ html {
 #texto1{
   text-align: center;
   font-weight: bold;
+  
 }
 #texto2{
   text-align: justify;
+}
+#texto3 {
+  font-style: italic;
+  text-align: center;
+  font-size: smaller;
+  padding-left: 200px;
+  padding-right: 200px;
 }
 iframe {
   border-radius: 1rem;
