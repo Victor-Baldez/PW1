@@ -1,3 +1,21 @@
-body {
+html {
   background: #437c90;
+  width: 100%;
 }
+
+#menu {
+  height: 10%;
+  width: 100%;
+  background: white;
+  border-radius: 0.25rem;
+
+}
+#links {
+  width: 50%;
+  height:100%;
+  float: right;
+}
+#link table {
+  
+}
+
